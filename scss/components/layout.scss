@@ -1,0 +1,16 @@
+main{
+    font-family: 'Martian Mono', monospace;
+}
+.hero{
+    width: 100%;
+    height: calc(100vh - 70px);
+    background-image: url(/img/space_background.png);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    h1{
+        color: beige;
+    }
+}
