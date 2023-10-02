@@ -19,7 +19,7 @@ nav {
 
 main {
   font-family: 'Martian Mono', monospace;
-  background-image: url(/img/space_background.png);
+  background-image: url(./img/space_background.png);
   background-size: contain;
 }
 
